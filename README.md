@@ -1,4 +1,4 @@
-# clubhouse
+# Clubhouse
 
 A new Flutter project.
 
